@@ -13,3 +13,7 @@
 最后运行zclean.cmd
 
 你就能得到一个six.exe
+
+## 注意
+
+你需要gcc
